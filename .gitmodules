@@ -1,0 +1,3 @@
+[submodule "pos"]
+	path = pos
+	url = https://gitlab.com/htl-villach/informatik/2023-2bhif/pos/WINKLER.git
